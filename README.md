@@ -39,19 +39,19 @@ all versions >= PHP 5.3.
 - Provide a streaming parser for PDF documents, entirely written in PHP, that
   follows the PDF specification.
 
-  Please note: I started this project in July 2013 because there was (to my
-  knowledge) no comparable FLOSS package available. The existing “solutions” to
-  extract data from PDF documents mostly relied on naive hacks with regular
-  expressions.
+Please note: I started this project in July 2013 because there was (to my
+knowledge) no comparable FLOSS package available for PHP. The existing
+“solutions” to extract data from PDF documents mostly relied on naive hacks
+with regular expressions.
 
-  “Unfortunately”, just two months later (2013-Aug-30), the
-  [smalot/pdfparser](https://github.com/smalot/pdfparser) project was started
-  on GitHub. Partly because of that and partly because of issues in my personal
-  life, I lost the motivation to continue working on my own solution.
+“Unfortunately”, just two months later (2013-Aug-30), the
+[smalot/pdfparser](https://github.com/smalot/pdfparser) project was started on
+GitHub. Partly because of that and partly because of issues in my personal
+life, I lost the motivation to continue working on my own solution.
 
-  I am still uncertain if there will be substantial additions in the future,
-  but I also don’t want to discontinue the project because I put some work into
-  it. So there will at least be a certain level of maintenance.
+I am still uncertain if there will be substantial additions in the future, but
+I also don’t want to discontinue the project because I put some work into it.
+So there will at least be a certain level of maintenance.
 
 
 ## Testing
