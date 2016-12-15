@@ -1,8 +1,5 @@
 <?php
 
-error_reporting(-1);
-ini_set('display_errors', 1);
-
 header('Content-Type: text/html; charset=UTF-8');
 
 if ((!$loader = @include __DIR__.'/../../../autoload.php')
